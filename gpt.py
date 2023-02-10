@@ -7,7 +7,7 @@ import os
 import getpass
 
 # Set the API key and some initial parameter values
-api_key = "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"
+api_key = ""
 temperature = 0.5  # 0 to 1
 max_tokens = 2000  # max 4000
 
